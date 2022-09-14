@@ -22,7 +22,7 @@ npm install --save-dev react react-dom typescript @types/react postcss
 "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  }
+}
 ```
 
 ### Init typescript
