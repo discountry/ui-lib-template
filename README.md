@@ -102,7 +102,7 @@ Add new command to your `package.json` file
 
 ```json
 {
-"buildLib": "rollup -c"
+    "buildLib": "rollup -c"
 }
 ```
 
