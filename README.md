@@ -96,7 +96,7 @@ import { Button } from './stories/Button'
 export { Button }
 ```
 
-### Bundle
+### Using rollup
 
 Add new command to your `package.json` file
 
